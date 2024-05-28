@@ -1,3 +1,14 @@
+=> It is a CRUD operation website using Formik 
+=> The website has 4 pages,
+  * Home
+  * product
+  * create
+  * edit
+=> It performs operations with Details of some books which given inside the useState as Default Array of Object structure.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
