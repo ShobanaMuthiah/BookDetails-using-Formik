@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Expletus+Sans:ital,wght@0,400..700;1,400..700&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f8056a29 !important;
+}
+.lab{
+color: #ff0256 !important;
+}
+
+.card{
+    background-color: #7c06a70f;
+}
+.card-body{
+    background-color: #ee349121;
+}
+nav{
+    background-color: #ef76f847;
+}
+footer{
+    background-color: #ef76f847;
+    width: 100%;
+    margin: 0 auto;
+    border-top: #ff93f6 3px solid;
+    padding:30px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-link {
+    text-decoration: none !important;
+    color:rgb(159, 8, 8) !important;
+    font-weight: 600 !important;
+}
+.err{
+color: red !important;
+
+}
+.remove{
+    font-size: smaller !important;
+    background-color: #989898;
+}
+.card-img{
+    border-radius:0px !important;
+}
+td{
+    padding:2px !important;
+}
+.glow {
+    font-family: "Expletus Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500 !important;
+  font-style: normal;
+    font-size: 20px;
+    color: #ff8000; 
+    text-shadow: -1px 2px 3px rgba(0, 0, 0, 0.5), 
+        2px -1px 1px rgba(207, 118, 53, 0.922); 
+        text-align: center;
+
+  }
+.collapse{
+    display:flex !important;
+    align-items: flex-end !important;
+    justify-content: flex-end !important;
+}
